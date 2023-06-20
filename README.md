@@ -1,3 +1,5 @@
+![Alt text](diagram.png?raw=true "diagram")
+
 ### SPA Calculator
 ```
 npm i
