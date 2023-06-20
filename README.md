@@ -7,4 +7,4 @@ npm start
 ```
 
 Launch the [CalculatorBackend](https://github.com/daparic/CalculatorBackend.git) because the
-actual operation is perform by the backend.
+actual operation is performed by the backend.
